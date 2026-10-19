@@ -1,0 +1,5 @@
+Name: Batyr
+Surname: Gazizbek
+Group: IT2-2301
+Student ID: 38091
+Course: DevOps
