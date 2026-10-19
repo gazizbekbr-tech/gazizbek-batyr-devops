@@ -1,0 +1,13 @@
+services:
+  app:
+    build: .
+    image: gazizbek-batyr-devops
+    container_name: gazizbek-batyr-compose
+    environment:
+      STUDENT_NAME: Batyr
+      STUDENT_SURNAME: Gazizbek
+      STUDENT_GROUP: IT2-2301
+      STUDENT_ID: "38091"
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
