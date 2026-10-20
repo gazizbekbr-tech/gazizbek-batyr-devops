@@ -29,3 +29,4 @@ docker build -t gazizbek-batyr-devops .
 docker run --name gazizbek-batyr-container gazizbek-batyr-devops
 docker compose up
 ```
+Video demo: Tue Oct 20 00:33:46 UTC 2026
